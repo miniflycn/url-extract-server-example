@@ -1,0 +1,23 @@
+{
+  "name": "url-extract-server-example",
+  "version": "0.0.1",
+  "description": "A snapshot & extract url server example",
+  "keywords": [
+    "snapshot",
+    "extract",
+    "url",
+    "library",
+    "phantomjs"
+  ],
+  "repository": "git://github.com/miniflycn/url-extract-server-example.git",
+  "author": "Daniel Yang <miniflycn@gmail.com>",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "connect": "*",
+    "url-extract": "0.0.5"
+  }
+}
