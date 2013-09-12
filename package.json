@@ -18,6 +18,6 @@
   "license": "MIT",
   "dependencies": {
     "connect": "*",
-    "url-extract": "0.0.5"
+    "url-extract": "*"
   }
 }
