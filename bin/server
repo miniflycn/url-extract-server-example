@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var connect = require('connect')
-  , uExtract = require('url-extract');
+  , uExtract = require('url-extract')();
 
 var app = connect()
           .use(connect.query())
